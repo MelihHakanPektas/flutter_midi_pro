@@ -15,7 +15,7 @@ dependencies:
     # the parent directory to use the current plugin's version.
     path: ../
   cupertino_icons: ^1.0.2
-  flutter_piano_pro: ^0.2.0
+  flutter_piano_pro: ^0.5.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
